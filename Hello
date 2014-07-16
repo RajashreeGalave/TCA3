@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+ printf("enter no");
  printf("Hello");
  getch();
 } 
